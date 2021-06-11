@@ -1,0 +1,80 @@
+1
+Mercedes
+Mercedes
+Pirelli
+Prata
+Hamilton
+Bottas
+650
+1
+Aston Martin
+Mercedes1.6 v6
+Pirelli
+Verde
+Vettel
+Stroll
+655
+1
+Mclaren
+Mercedes 1.6 v6
+Pirelli
+Amarelo
+Ricciardo
+Norris
+650
+1
+Alpine
+Renault 1.6 v6
+Pirelli
+Preto
+Alonso
+Ocon
+645
+1
+Hass
+Ferraria 1.6 v6
+Pirelli
+Preto
+Schummacher
+Mazepin
+660
+1
+Alpha Romeo
+Ferrari 1.6 v6
+Pirelli
+Vermelho
+Raikkonen
+Giovinazzi
+640
+1
+Alpha Tauri
+Honda 1.6 v6
+Pirelli
+Preto Branco
+Tsunoda
+Gasly
+640
+1
+Williams
+Mercedes 1.6 V6
+Pirelli
+Azul Vermelho
+Russel
+Latifi
+640
+1
+Red Bull
+Honda 1.6 6
+Pirelli
+Preto Vermelho
+Verstappen
+Perez
+630
+1
+Ferrari
+Ferrari 1.6 v6
+Pirelli
+Vermelho
+Sainz
+Leclerc
+630
